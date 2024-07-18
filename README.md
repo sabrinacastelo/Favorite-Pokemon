@@ -1,8 +1,8 @@
 
 ```markdown
 # PokeAPI
-
-<img src: "https://github.com/sabrinacastelo/Favorite-Pokemon/blob/main/pokeapi/lib/app/image/pokemon.webp">
+```
+<img src="https://1000logos.net/wp-content/uploads/2017/05/Pokemon-Logo.png">
 
 ## Pré-requisitos
 
@@ -12,6 +12,8 @@ Antes de começar, certifique-se de ter instalado:
 - Um editor de código de sua preferência (ex: Visual Studio Code, Android Studio)
 - Um dispositivo Android/iOS ou um emulador/simulador configurado
 
+```
+```
 ## Configuração do Projeto
 
 1. Clone o repositório:
