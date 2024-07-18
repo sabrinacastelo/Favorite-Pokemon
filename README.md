@@ -2,6 +2,8 @@
 ```markdown
 # PokeAPI
 
+<img src: "https://github.com/sabrinacastelo/Favorite-Pokemon/blob/main/pokeapi/lib/app/image/pokemon.webp">
+
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado:
